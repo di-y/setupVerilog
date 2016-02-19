@@ -1,0 +1,9 @@
+module chipInterface
+  (input  logic switch_a,
+        input logic  switch_b,
+        input logic  switch_sel,
+	output logic led_muxOut);
+
+       multiplexer muxUnit (led_muxOut, switch_a,
+			    switch_b, switch_sel);
+endmodule: chipInterface

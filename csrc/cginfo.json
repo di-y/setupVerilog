@@ -1,0 +1,78 @@
+{
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "...MASTER...": {
+            "amcQw_d": {
+                "out": "amcQw_d.o",
+                "bytes": 7328,
+                "mod": "...MASTER...",
+                "mode": 4,
+                "archive": "archive.5/_3371619_archive_1.a"
+            }
+        },
+        "system": {
+            "gdAaG_d": {
+                "out": "gdAaG_d.o",
+                "bytes": 11703,
+                "mod": "system",
+                "mode": 4,
+                "archive": "archive.5/_prev_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "out": "reYIK_d.o",
+                "bytes": 29004,
+                "mod": "std",
+                "mode": 4,
+                "archive": "archive.5/_prev_archive_1.a"
+            }
+        }
+    },
+    "CurCompileModules": [
+        "...MASTER..."
+    ],
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "system": [
+            "system",
+            "gdAaG",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ]
+    },
+    "stat": {
+        "nMops": 0
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "LVLData": [
+        "SIM"
+    ],
+    "Misc": {
+        "cwd": "/afs/ece.cmu.edu/usr/dyerlan/Private/240/lab0",
+        "csrc": "csrc",
+        "csrc_abs": "/afs/ece.cmu.edu/usr/dyerlan/Private/240/lab0/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.5",
+        "default_output_dir": "csrc",
+        "daidir_abs": "/afs/ece.cmu.edu/usr/dyerlan/Private/240/lab0/simv.daidir"
+    },
+    "PEModules": [],
+    "SIMBData": {
+        "bytes": 58392,
+        "out": "amcQwB.o"
+    },
+    "CompileProcesses": [
+        "cgproc.3371619.json"
+    ],
+    "CompileStatus": "Successful"
+}
